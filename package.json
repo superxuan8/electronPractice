@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "hello-word!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GaoPeng Fan",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.2.1",
+    "electron": "^25.3.0"
+  }
+}
